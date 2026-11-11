@@ -1,0 +1,26 @@
+# Big inputs and intermediate outputs stay on the laptop. The trained weights (best.pt), their settings and curves are committed.
+Dataset/
+data/
+runs/
+weights/
+weights_trained/*/last.pt
+weights_trained/*/*.prev
+weights_trained/*/*.onnx
+results/*.log
+results/**/*.log
+results/*/predictions.json
+results/*/*.jpg
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+.claude/
+
+# Private notes and prototypes that are not part of the public project
+presentation/
+notes/
+research_notes/
+reports/
+rag/
+*.pdf

@@ -1,0 +1,11 @@
+# The versions this project was trained and scored with (Python 3.12).
+torch==2.15.0
+torchvision==0.29.2
+ultralytics==8.4.201
+streamlit==1.66.1
+pycocotools==2.0.11
+matplotlib==3.11.2
+pandas==3.1.0
+numpy==2.5.4
+onnx==1.23.2
+onnxruntime==1.31.1

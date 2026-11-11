@@ -1,0 +1,35 @@
+{
+  "weights": "weights_trained/parts_yolo26s_640/best.pt",
+  "part_confidence": 0.4,
+  "photos": 100,
+  "damages": 217,
+  "named": 42,
+  "named_pct": 19.4,
+  "photos_without_parts": 58,
+  "named_per_class": {
+    "dent": [
+      7,
+      56
+    ],
+    "scratch": [
+      23,
+      95
+    ],
+    "crack": [
+      8,
+      27
+    ],
+    "glass shatter": [
+      1,
+      15
+    ],
+    "lamp broken": [
+      2,
+      14
+    ],
+    "tire flat": [
+      1,
+      10
+    ]
+  }
+}

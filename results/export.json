@@ -1,0 +1,7 @@
+{
+  "run": "yolo26s-seg_1024",
+  "imgsz": 1024,
+  "onnx_file": "runs/yolo26s-seg_1024/weights/best.onnx",
+  "onnx_mb": 42.0,
+  "ms_per_image_cpu_onnx": 268.5
+}
